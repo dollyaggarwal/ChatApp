@@ -26,7 +26,7 @@ const Login = () => {
           {"Don't"} have an account?
         </a>
         <div>
-          <button className='btn btn-block btn-sm mt-2'>Login</button>
+          <button className='btn btn-block btn-sm mt-2 broder border-slate-700'>Login</button>
         </div>
       </form>
       </div>
