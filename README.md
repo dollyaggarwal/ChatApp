@@ -41,10 +41,13 @@ This robust application is built with cutting-edge technologies, ensuring an eff
 <img width="958" alt="image" src="https://github.com/dollyaggarwal/ChatApp/assets/108432161/10a8ec34-3eb3-41cd-b553-3c766fa9c396">
 
 
+
 <img width="951" alt="image" src="https://github.com/dollyaggarwal/ChatApp/assets/108432161/e4e9a45e-722b-48d2-9dfb-2c096eabac89">
 
 
+
 <img width="952" alt="image" src="https://github.com/dollyaggarwal/ChatApp/assets/108432161/c663460a-b234-4258-87bf-c4fbe086c634">
+
 
 
 
