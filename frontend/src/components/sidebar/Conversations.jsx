@@ -5,9 +5,7 @@ import Conversation from "./Conversation"
      <Conversation/>
      <Conversation/>
      <Conversation/>
-     <Conversation/>
-     <Conversation/>
-     <Conversation/>
+    
     </div>
   );
 };
