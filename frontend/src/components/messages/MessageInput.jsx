@@ -15,7 +15,7 @@ const MessageInput = () =>{
         <form className="px-4 my-3" onSubmit={handleSubmit}>
         <div className="w-full relative">
             <input type="text" className="border text-sm rounded-lg block w-full p-2.5
-             bg-gray-700 border-gray-600 text-white" placeholder="Send a Message"
+             bg-gray-800 border-gray-700 text-white" placeholder="Send a Message"
                 value={message} onChange={(e) => setMessage(e.target.value)}
              />
         <button type="submit" className="absolute inset-y-0 end-0 flex items-center pe-3">
@@ -28,19 +28,3 @@ const MessageInput = () =>{
 export default MessageInput;
 
 
-//STARTER CODE
-// import { BsSend} from 'react-icons/bs';
-
-// const MessageInput = () =>{
-//     return(
-//         <form className="px-4 my-3">
-//         <div className="w-full">
-//             <input type="text" className="border text-sm rounded-lg block w-full p-2.5
-//              bg-gray-700 border-gray-600 text-white" placeholder="Send a Message"/>
-//         <button type="submit" className="absolute inset-y-0 end-0 flex items-center pe-3"/>
-//         <BsSend/>
-//         </div>
-//         </form>
-//     )
-// }
-// export default MessageInput;
